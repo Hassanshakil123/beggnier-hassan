@@ -1,0 +1,190 @@
+.first{
+    padding-left: 20px;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+    margin-left:5px ;
+    margin-bottom:20px ;
+
+}
+.search{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.bu{
+    color: white;
+}
+
+.main{
+    display: flex;
+}
+
+#logo{
+      background-image: url("./Hassan/Ssup.png" )  ;
+      background-size: cover;
+      padding-right: 80px;
+}
+
+li:hover{
+         color:green;
+         font-weight: 700;
+         cursor: pointer;
+}
+
+#menu{
+      background-color: green;
+      height: 30px;
+      width: 100px;
+      border-radius: 10px;
+      font-size: 15px;
+      padding: 0px;
+    
+}
+
+#menu:hover{
+            background-color: rgb(5, 90, 5);
+            cursor: pointer;
+}
+
+hr{
+    margin: 20px;
+}
+#cover{
+    margin: 10px;
+    position: fixed;
+    
+}
+.banner{
+    background-image: url("./Hassan/ups.png");
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+.banner1{
+    background-image: url( "./Hassan/image1.png");
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.list-head {
+    display: flex;
+    align-items: end;
+}
+
+.star{
+    background-image: url("./Hassan/star1.png");
+    height: 20px;
+    padding-right:25px ;
+    padding-bottom: 10px;
+    background-repeat: no-repeat;
+}
+
+.proof{
+    font-size: 30px;
+    padding-left: 10px;
+    
+}
+h1{
+    font-size: 50px;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.no{
+    font-size: 30px;
+    padding-left:10px;
+}
+
+.safe{
+    font-size: 30px;
+    padding-left: 10px;
+}
+.dollar{
+    background-image: url("./Hassan/dollar.png");
+    height: 20px;
+    padding-right:25px ;
+    padding-bottom: 10px;
+    background-repeat: no-repeat;
+}
+.check{
+    background-image: url("./Hassan/check1.png");
+    height: 20px;
+    padding-right:25px ;
+    padding-bottom: 10px;
+    background-repeat: no-repeat;
+    margin-right: 0px;
+}
+.p1{
+    margin-left: 30px;
+    padding-left: 10px;
+}
+.box{
+    box-sizing: border-box;
+    background-color: #f2f7f2;
+    height: 500px;
+    width: 50%;
+    margin-left: 30px;
+}
+.side1{
+    background-image: url("./Hassan/side.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    width: 50%;
+    margin-left: 30px;
+}
+.h{
+    font-weight: 500;
+    font-size: 70px;
+}
+
+h2:hover{
+    color: rgb(47, 241, 47)
+}
+h2{
+    color: rgb(148, 148, 139);
+}
+
+.hire{
+    font-size: 70px;
+    font-weight: 700;
+}
+.last{
+    font-size:28px;
+    color: rgb(192, 189, 189);
+    margin: -1px;
+}
+
+.last:hover{
+    color: rgb(109, 237, 141);
+}
+
+.side{
+    background-image: url("./Hassan/side2.png");
+    height: 400px;
+    background-repeat: no-repeat;
+}
+
+.visual{
+    width: 50%;
+    padding-left: 90px;
+    
+}
+
+.flex{
+    display: flex;
+}
+
+.radius{
+    border: 1px solid rgb(148, 146, 146);
+    border-radius: 5px;
+    border-width:thin;
+    padding: 2px;
+    color: rgb(156, 152, 152);
+}
+.margin{
+    margin-left: 20px;
+}
